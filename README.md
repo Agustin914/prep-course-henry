@@ -1,2 +1,1 @@
-# prep-course-henry
-repositorio modulo 2 ejercicio prpr course henry
+este  proyecton de como crear un reposiotorio y guardarlo
